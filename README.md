@@ -1,16 +1,20 @@
-# task_hero
+# TaskHero - Gerenciador de Tarefas em Flutter
 
-A new Flutter project.
+**TaskHero** é um aplicativo desenvolvido em **Flutter** que utiliza **Dart** para a construção de uma interface de usuário moderna e interativa, com funcionalidades como gerenciamento de tarefas, integração com APIs REST e armazenamento local de preferências.
 
-## Getting Started
+## Tecnologias Utilizadas:
 
-This project is a starting point for a Flutter application.
+- **Dart/Flutter**: Desenvolvimento de aplicativos móveis multiplataforma (Android e iOS).
+- **Python**: Utilizado em outras partes do projeto para automação e processamento de dados.
 
-A few resources to get you started if this is your first Flutter project:
+## Funcionalidades:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Gerenciamento de Tarefas**: Criação, visualização e edição de tarefas.
+- **APIs REST**: Integração com serviços externos para sincronização de dados.
+- **Shared Preferences**: Armazenamento local das preferências do usuário, como tema claro/escuro.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Como Contribuir:
+
+Sinta-se à vontade para fazer fork deste repositório e enviar pull requests para melhorias no código ou na documentação.
+
+
